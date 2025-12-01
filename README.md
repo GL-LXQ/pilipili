@@ -30,6 +30,4 @@
 
 <img src="./img/image-20250415175708364.png" width="450">
 
-<img src="./img/image-20250415180214595.png" width="450">
 
-<img src="./img/image-20250515165685094.png" width="450">
