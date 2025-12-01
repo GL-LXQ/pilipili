@@ -8,8 +8,6 @@
 
 <img src="./img/image-20250415171759941.png" width="450">
 
-<img src="./img/image-20250415173743314.png" width="450">
-
 <img src="./img/image-20250415174054777.png" width="450">
 
 <img src="./img/image-20250415174616748.png" width="450">
