@@ -1,4 +1,3 @@
-<img src="./img/image-20250415162456125.png" width="450">
 
 <img src="./img/image-20250415170725088.png" width="450">
 
